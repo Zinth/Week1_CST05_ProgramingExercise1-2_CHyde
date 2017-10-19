@@ -1,4 +1,4 @@
-/** Program: Hello World Program
+/** Program: About Me Program
 * File: AboutMe.java
 * Summary: Prints information about myself to the console.
 * Author: Chris Hyde
